@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/youtube/vitess/go/sync2"
+	"github.com/vireshas/minimal_vitess_pool/sync2"
 )
 
 var (
